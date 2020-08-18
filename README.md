@@ -1,3 +1,5 @@
+this is just a fork, go to https://github.com/malware-dev/MDK-SE for the real deal.
+
 # MDK-SE
 _(Malware's Development Kit for SE)_
 
